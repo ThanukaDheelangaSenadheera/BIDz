@@ -1,0 +1,32 @@
+﻿@model IEnumerable<BidZ.lk.Models.LiveBid>
+
+
+    <table class="table" align="center">
+        <tr>
+           <th>
+               @Html.DisplayNameFor(model => model.Timestamp)
+           </th>
+           <th>
+               @Html.DisplayNameFor(model => model.Username)
+           </th>
+           <th>
+               @Html.DisplayNameFor(model => model.Amount)
+           </th>
+         </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Timestamp)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Username)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Amount)
+                </td>
+            </tr>
+        }
+
+    </table>

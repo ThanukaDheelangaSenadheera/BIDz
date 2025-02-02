@@ -1,0 +1,430 @@
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\ApplicationInsights.config
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\roslyn\csc.exe
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\roslyn\System.Collections.Immutable.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\roslyn\System.Reflection.Metadata.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\roslyn\vbc.exe
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\roslyn\VBCSCompiler.exe
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\roslyn\VBCSCompiler.exe.config
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\BidZ.lk.dll.config
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\BidZ.lk.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\BidZ.lk.pdb
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Antlr3.Runtime.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\EntityFramework.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\EntityFramework.SqlServer.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Agent.Intercept.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AI.DependencyCollector.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Web.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AI.WindowsServer.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.ApplicationInsights.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Core.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Cookies.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Facebook.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Google.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.OAuth.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Twitter.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Web.Infrastructure.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Newtonsoft.Json.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Owin.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\System.Web.Helpers.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\System.Web.Mvc.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\System.Web.Optimization.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\System.Web.Razor.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Deployment.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Razor.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\WebGrease.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AI.DependencyCollector.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Web.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AI.WindowsServer.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.ApplicationInsights.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\System.Web.Helpers.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\System.Web.Mvc.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\System.Web.Optimization.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\System.Web.Razor.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Deployment.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Razor.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Antlr3.Runtime.pdb
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Newtonsoft.Json.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\EntityFramework.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\EntityFramework.SqlServer.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Core.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Facebook.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Cookies.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.OAuth.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Google.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Twitter.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.csprojResolveAssemblyReference.cache
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.updatedatabase.resources
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.cls.resources
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.csproj.GenerateResource.Cache
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.pdb
+F:\REDEVLOPPED\Settle Onw\BidZ.LK\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.messages.resources
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\ApplicationInsights.config
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\roslyn\csc.exe
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\roslyn\System.Collections.Immutable.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\roslyn\System.Reflection.Metadata.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\roslyn\vbc.exe
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\roslyn\VBCSCompiler.exe
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\roslyn\VBCSCompiler.exe.config
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\BidZ.lk.dll.config
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\BidZ.lk.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\BidZ.lk.pdb
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Antlr3.Runtime.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\EntityFramework.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\EntityFramework.SqlServer.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Agent.Intercept.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AI.DependencyCollector.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Web.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AI.WindowsServer.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.ApplicationInsights.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Core.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Cookies.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Facebook.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Google.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.OAuth.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Twitter.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Web.Infrastructure.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Newtonsoft.Json.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Owin.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\System.Web.Helpers.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\System.Web.Mvc.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\System.Web.Optimization.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\System.Web.Razor.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Deployment.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Razor.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\WebGrease.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AI.DependencyCollector.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Web.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AI.WindowsServer.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.ApplicationInsights.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\System.Web.Helpers.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\System.Web.Mvc.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\System.Web.Optimization.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\System.Web.Razor.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Deployment.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Razor.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Antlr3.Runtime.pdb
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Newtonsoft.Json.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\EntityFramework.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\EntityFramework.SqlServer.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Core.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Facebook.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Cookies.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.OAuth.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Google.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Twitter.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.csprojResolveAssemblyReference.cache
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.updatedatabase.resources
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.cls.resources
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.messages.resources
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.csproj.GenerateResource.Cache
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.dll
+F:\REDEVLOPPED\Backup\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.pdb
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\ApplicationInsights.config
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\roslyn\csc.exe
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\roslyn\System.Collections.Immutable.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\roslyn\System.Reflection.Metadata.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\roslyn\vbc.exe
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\roslyn\VBCSCompiler.exe
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\roslyn\VBCSCompiler.exe.config
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\BidZ.lk.dll.config
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\BidZ.lk.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\BidZ.lk.pdb
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Antlr3.Runtime.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\EntityFramework.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\EntityFramework.SqlServer.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Agent.Intercept.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AI.DependencyCollector.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Web.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AI.WindowsServer.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.ApplicationInsights.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Core.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Cookies.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Facebook.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Google.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.OAuth.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Twitter.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Web.Infrastructure.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Newtonsoft.Json.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Owin.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\System.Web.Helpers.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\System.Web.Mvc.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\System.Web.Optimization.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\System.Web.Razor.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Deployment.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Razor.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\WebGrease.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AI.DependencyCollector.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Web.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AI.WindowsServer.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.ApplicationInsights.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\System.Web.Helpers.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\System.Web.Mvc.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\System.Web.Optimization.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\System.Web.Razor.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Deployment.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Razor.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Antlr3.Runtime.pdb
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Newtonsoft.Json.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\EntityFramework.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\EntityFramework.SqlServer.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Core.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Facebook.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Cookies.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.OAuth.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Google.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Twitter.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.csprojResolveAssemblyReference.cache
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.updatedatabase.resources
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.cls.resources
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.messages.resources
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.csproj.GenerateResource.Cache
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.dll
+F:\REDEVLOPPED\Settle Onw\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.pdb
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\ApplicationInsights.config
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\roslyn\csc.exe
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\roslyn\vbc.exe
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\roslyn\VBCSCompiler.exe
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\BidZ.lk.dll.config
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\BidZ.lk.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\BidZ.lk.pdb
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Antlr3.Runtime.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\EntityFramework.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\EntityFramework.SqlServer.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Web.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.ApplicationInsights.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Newtonsoft.Json.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Owin.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\System.Web.Helpers.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\System.Web.Mvc.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\System.Web.Optimization.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\System.Web.Razor.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Razor.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\WebGrease.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Web.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.ApplicationInsights.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\System.Web.Helpers.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\System.Web.Mvc.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\System.Web.Optimization.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\System.Web.Razor.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Razor.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Antlr3.Runtime.pdb
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Newtonsoft.Json.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\EntityFramework.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\EntityFramework.SqlServer.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.csprojResolveAssemblyReference.cache
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.updatedatabase.resources
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.cls.resources
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.messages.resources
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.csproj.GenerateResource.Cache
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.dll
+C:\Users\thanu\Desktop\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.pdb
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\ApplicationInsights.config
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\roslyn\csc.exe
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\roslyn\System.Collections.Immutable.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\roslyn\System.Reflection.Metadata.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\roslyn\vbc.exe
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\roslyn\VBCSCompiler.exe
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\roslyn\VBCSCompiler.exe.config
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\BidZ.lk.dll.config
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\BidZ.lk.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\BidZ.lk.pdb
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Antlr3.Runtime.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\EntityFramework.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\EntityFramework.SqlServer.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AI.DependencyCollector.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Web.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AI.WindowsServer.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.ApplicationInsights.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Google.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Web.Infrastructure.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Newtonsoft.Json.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Owin.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\System.Web.Helpers.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\System.Web.Mvc.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\System.Web.Optimization.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\System.Web.Razor.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Deployment.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Razor.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\WebGrease.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AI.DependencyCollector.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AI.Web.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AI.WindowsServer.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.ApplicationInsights.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\System.Web.Helpers.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\System.Web.Mvc.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\System.Web.Optimization.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\System.Web.Razor.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Deployment.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\System.Web.WebPages.Razor.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Antlr3.Runtime.pdb
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Newtonsoft.Json.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\EntityFramework.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\EntityFramework.SqlServer.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Google.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.csprojResolveAssemblyReference.cache
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.updatedatabase.resources
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.cls.resources
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.Migrations.messages.resources
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.csproj.GenerateResource.Cache
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.dll
+F:\Assignment APIIT\My Performance\1st Year\Thanuka BidZ.lk\Group Assignment\BidZ.lk\BidZ.lk\obj\Debug\BidZ.lk.pdb

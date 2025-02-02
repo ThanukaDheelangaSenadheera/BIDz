@@ -1,0 +1,73 @@
+﻿@using Microsoft.AspNet.Identity.EntityFramework
+@using BidZ.lk.Models;
+@using Microsoft.AspNet.Identity
+@{
+    var userType = ViewBag.userID;
+    ViewData["Username"] = User.Identity.GetUserName();
+    Session["userType"] = userType;
+    var userT = (string)Session["userType"];
+    var manager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext()));
+    var user = manager.FindById(User.Identity.GetUserId());
+}
+<script src="https://npmcdn.com/tether@1.2.4/dist/js/tether.min.js"></script>
+<script src="https://npmcdn.com/bootstrap@4.0.0-alpha.5/dist/js/bootstrap.min.js"></script>
+
+@if (Request.IsAuthenticated)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+    @Html.AntiForgeryToken()
+        <ul class="nav navbar-nav navbar-right">               
+            @if (userT == "Seller")
+            {
+                <li><h1 class="col-2">|</h1></li>
+                <li>@Html.RouteLink("CREATE NORMAL AD", new { action = "Create", controller = "Auctions" })</li>
+                <li>@Html.RouteLink("CREATE LIVE AD", new { action = "Create", controller = "LiveAuctions" })</li>
+                <li>@Html.RouteLink("MANAGE MY BIDS", new { action = "ViewMyBids", controller = "Auctions" })</li>
+                <li>@Html.RouteLink("MESSAGES", new { action = "BothUsersCanView", controller = "UserMessages" })</li>
+                <li>
+                    @Html.ActionLink("Hello " + user.userFname + " " + user.userLname + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+                </li>
+                <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+            }
+            else if(userT == "Customer")
+            {
+                <li>@Html.RouteLink("MESSAGES", new { action = "BothUsersCanView", controller = "UserMessages" })</li>
+                <li>
+                    @Html.ActionLink("Hello " + user.userFname + " " + user.userLname + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+                </li>
+                <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+            }
+            else if(userT == "Admin")
+            {
+                <li>@Html.RouteLink("Users Manage", new { action = "Index", controller = "ApplicationUsers" })</li>
+                <li>@Html.RouteLink("Manage Auctions", new { action = "IndexForAdmin", controller = "Auctions" })</li>
+                <li>@Html.RouteLink("Manage Messages", new { action = "AllMessages", controller = "UserMessages" })</li>
+                <li>
+                    @Html.ActionLink("Hello Admin " + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+                </li>
+                <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+            }
+            else
+            {
+                <li>@Html.RouteLink("MESSAGES", new { action = "BothUsersCanView", controller = "UserMessages" })</li>
+                <li>
+                    @Html.ActionLink("Hello " + user.userFname + " " + user.userLname + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+                </li>
+
+
+
+
+                <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+
+            }
+        </ul>
+    }
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Register", "RegisterType", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
+}

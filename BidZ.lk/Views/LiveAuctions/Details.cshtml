@@ -1,0 +1,122 @@
+﻿@model BidZ.lk.Models.LiveAuction
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>LiveAuction</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.productName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.productName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.productPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.productPrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.productType)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.productType)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.productAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.productAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StartTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EndTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EndTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CurrentPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CurrentPrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImageURL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ImageURL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SellerUserID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SellerUserID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.countLiveBid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.countLiveBid)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

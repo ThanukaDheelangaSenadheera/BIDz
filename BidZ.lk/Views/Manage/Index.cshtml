@@ -1,0 +1,48 @@
+﻿@model BidZ.lk.Models.IndexViewModel
+@{
+    ViewBag.Title = "Manage";
+}
+<br />
+<br />
+<center><p class="text-success">@ViewBag.StatusMessage</p></center>
+
+<div class="col-lg-offset-4">
+    <h2 class="col-md-5">@ViewBag.Title Account Settings</h2>
+
+
+    <div>
+        <br />
+   
+        <hr />
+        <dl class="dl-horizontal">
+     
+            <h4 class="col-lg-12">(Change your account settings here)</h4>
+            <hr />
+            <dt>Password:</dt>
+            <dd>
+                [
+                @if (Model.HasPassword)
+            {
+                    @Html.ActionLink("Change your password", "ChangePassword")
+                }
+                else
+                {
+                    @Html.ActionLink("Create", "SetPassword")
+                }
+                ]
+            </dd>
+
+
+
+
+
+
+
+            <dt> User Update Details :</dt>
+            <dd>
+                [@Html.RouteLink("Edit Account ", new { action = "UserEdit", controller = "Manage" })]
+            </dd>
+
+        </dl>
+    </div>
+    </div>

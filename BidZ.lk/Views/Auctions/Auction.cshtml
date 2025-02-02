@@ -1,0 +1,219 @@
+﻿@model BidZ.lk.Models.Auction
+
+@{
+
+    ViewBag.Title = "Auction";
+    var auction = Model;
+    var selId = auction.SellerUserID;
+    var expire = ViewBag.Expire;
+
+    //var selId = auction.SellerUserID;
+}
+<br />
+<div class="col-lg-offset-2">
+    <h1>Normal Auction</h1>
+</div>
+@ViewData["Data"]
+<br />
+<div class="col-lg-offset-2">
+    <table style="width:100%">
+        <hr />
+        <tr>
+            <th>
+
+                <img src="@Url.Content(auction.ImageURL)" alt="Mountain View" style="width:450px;height:355px;" />
+            </th>
+            <th>
+                <div class="auction">
+                    <h2>Product Title : @auction.Title</h2>
+                    <div class="details">
+
+
+                        <p>End Time: @auction.EndTime.ToLongDateString()</p>
+                        <p>Starting Price: @auction.StartPrice.ToString("C")</p>
+                        <p>
+                            Current Price:
+
+                            @if (auction.CurrentPrice == null)
+                            {
+                                <text>
+                                    [No bids]
+                                </text>
+                            }
+                            else
+                            {
+                                <span>@auction.CurrentPrice.Value.ToString("C")</span>
+                                <span>[@auction.BidCount bids]</span>
+
+
+                            }
+                        </p>
+                        <h3>@ViewBag.status</h3>
+                        <p>
+
+
+                            @using (Html.BeginForm("Bid", "Auctions"))
+                            {
+                                if (auction.CurrentPrice < auction.StartPrice)
+                                {
+                                    var lowestBidAmount = auction.StartPrice + 1;
+
+                                    <p>You have to begin with the start price.</p>
+
+                                    <span>
+                                        Bid: $@Html.TextBox("amount", lowestBidAmount)
+                                        @Html.ValidationMessage("amount")
+                                    </span>
+
+                                    @Html.Hidden("auctionId", auction.Id)
+                                    <input class="post-bid" type="submit" value="Bid" />
+                                }
+                                else
+                                {
+
+                                    var lowestBidAmount = auction.CurrentPrice + 1;
+
+                                <span>
+                                    Bid: $@Html.TextBox("amount", lowestBidAmount)
+                                    @Html.ValidationMessage("amount")
+                                </span>
+
+                                @Html.Hidden("auctionId", auction.Id)
+                                <input class="post-bid" type="submit" value="Bid" />
+                                }
+                            }
+
+
+                    </div>
+                </div>
+
+
+                <input type="button" value="BUY NOW" onclick="location.href='@Url.Action("AuctionSellerDetails", "Auctions",new { @id = selId })'" class="btn btn-primary btn-sm" />
+
+                <p id="demo"></p>
+
+                <div class="col-7">
+
+                    <h5>Seller Details : @Html.ActionLink("View Details", "AuctionSellerDetails", "Auctions", new { @id = selId }, null)</h5>
+
+                </div>
+
+                <div class="col-7">
+
+                    <h5> Send a message to Seller : @Html.ActionLink("Send Message", "MessageRecieveGet", "UserMessages", new { @id = selId }, null)</h5>
+
+                </div>
+
+
+
+
+                <div class="col-7">
+
+
+                    @if (TempData["status"] == null)
+                    { }
+                    else
+                    {
+                        <h4>Status : @TempData["status"]</h4>
+                    }
+
+                    @if (TempData["Winner"] == null)
+                    { }
+                    else
+                    {
+                        <h4>Winner : @TempData["Winner"]</h4>
+                    }
+
+
+                </div>
+
+
+</div>
+            </th>
+
+        </tr>
+    </table>
+<hr />
+<h3>Description :</h3>
+<div class="description">
+    @auction.Description
+</div>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+@section scripts{
+
+    <script>
+            // Set the date we're counting down to
+            var countDownDate = new Date("@auction.EndTime.ToLongDateString() 00:00:00").getTime();
+
+            // Update the count down every 1 second
+            var x = setInterval(function () {
+
+            // Get todays date and time
+            var now = new Date().getTime();
+
+            // Find the distance between now an the count down date
+            var distance = countDownDate - now;
+
+            // Time calculations for days, hours, minutes and seconds
+            var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            // Output the result in an element with id="demo"
+            document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+            + minutes + "m " + seconds + "s ";
+
+            // If the count down is over, write some text
+            if (distance < 0) {
+                clearInterval(x);
+                document.getElementById("demo").innerHTML = "EXPIRED";
+            }
+        }, 1000);
+    </script>
+
+    <script id="current-price-template" type="application/html-template">
+        <p class="current-price">
+
+            <span>@auction.CurrentPrice.ToString()</span>
+            <span>[@auction.BidCount bids]</span>
+
+        </p>
+    </script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('.post-bid').on("click", function () {
+
+                var form = $(this).parent("form");
+
+                $.ajax({
+                    type: "POST",
+                    url: form.attr('action'),
+                    data: form.serialize()
+                })
+                    .success(function (data) {
+                        $('.current-price').replaceWith(html);
+                    })
+                    .error(function () {
+                        alert("Your bid has been rejected!");
+                    });
+                return false;
+            });
+        });
+    </script>
+
+}

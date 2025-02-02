@@ -1,0 +1,42 @@
+﻿@model BidZ.lk.Models.Messages
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Messages</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SenderUserEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SenderUserEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RecieverUsername)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RecieverUsername)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Contents)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Contents)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,78 @@
+﻿@using Microsoft.AspNet.Identity.EntityFramework
+@using BidZ.lk.Models;
+@using Microsoft.AspNet.Identity
+
+@{    
+    ViewData["Username"] = User.Identity.GetUserName();
+    var userType = ViewBag.userID;
+    ViewData["Username"] = User.Identity.GetUserName();
+    Session["userType"] = userType;
+    userType = Session["userType"];
+    var manager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext()));
+    var user = manager.FindById(User.Identity.GetUserId());
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    @section Styles
+        {
+        <style>
+            input[type=text] {
+                width: 130px;
+                box-sizing: border-box;
+                border: 2px solid #ccc;
+                border-radius: 4px;
+                font-size: 16px;
+                background-color: white;
+                background-image: url('searchicon.png');
+                background-position: 10px 10px;
+                background-repeat: no-repeat;
+                padding: 12px 20px 12px 40px;
+                -webkit-transition: width 0.4s ease-in-out;
+                transition: width 0.4s ease-in-out;
+            }
+
+                input[type=text]:focus {
+                    width: 100%;
+                }
+        </style>
+    }
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title -BIDZ.lk</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script src="https://npmcdn.com/tether@1.2.4/dist/js/tether.min.js"></script>
+    <script src="https://npmcdn.com/bootstrap@4.0.0-alpha.5/dist/js/bootstrap.min.js"></script>
+    @RenderSection("Styles", false)
+    </head>
+    <body>
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("BidZ.lk", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                </ul>
+                @Html.Partial("_LoginPartial")
+                 
+            </div>
+        </div>
+    </div>
+    @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Tulanjana,Thanuka and Kavishka</p>
+        </footer>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,99 @@
+﻿@model IEnumerable<BidZ.lk.Models.Auction>
+
+@{
+    ViewBag.Title = "IndexForAdmin";
+}
+
+<h2>IndexForAdmin</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.productName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.productPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.productType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.productAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CurrentPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ImageURL)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SellerUserID)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.productName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.productPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.productType)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.productAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EndTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CurrentPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ImageURL)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SellerUserID)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

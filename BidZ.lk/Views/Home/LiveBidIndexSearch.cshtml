@@ -1,0 +1,76 @@
+﻿@model IEnumerable<BidZ.lk.Models.LiveAuction>
+
+
+<br />
+<br />
+<h2 class="col-md-5"> Search Results </h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.productName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.productType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.productAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CurrentPrice)
+        </th>        
+   
+        <th>
+            @Html.DisplayNameFor(model => model.status)
+        </th>
+    
+        <th>
+      
+            <h5>| Product Image |</h5>
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.productName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.productType)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.productAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EndTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CurrentPrice)
+        </td>
+  
+        <td>
+            @Html.DisplayFor(modelItem => item.status)
+        </td>
+    
+        <td>
+            <a href="@Url.Action("LiveAuction", "LiveAuctions", new { id = item.Id })"><img src="@Url.Content(item.ImageURL)" width="200" height="250" /></a>
+        </td>  
+    </tr>
+}
+
+</table>

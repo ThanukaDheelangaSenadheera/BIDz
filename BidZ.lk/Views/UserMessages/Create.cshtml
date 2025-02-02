@@ -1,0 +1,52 @@
+﻿@model BidZ.lk.Models.Messages
+@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Create";
+    Session["Username"] = User.Identity.GetUserName();
+}
+<div class="col-lg-offset-4">
+    <br />
+    <br />
+    <h2>Create</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>Messages</h4>
+            <hr />
+            <div class="form-group">
+                @Html.LabelFor(model => model.SenderUserEmail, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextBoxFor(model => model.SenderUserEmail, new { @Value = User.Identity.GetUserName(), @class = "control-label col-md-4" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-10">
+                    @Html.HiddenFor(model => model.RecieverUsername, new { @Value = Session["IdOfMessage"] })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Contents, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextAreaFor(model => model.Contents, new { cols = 35, @rows = 3 })
+                    <br />
+                    @Html.ValidationMessageFor(model => model.Contents, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+    </div>
+<br />
+<br />
+<br />
+<br />

@@ -1,0 +1,62 @@
+﻿@{
+    ViewBag.Title = "RegisterType";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Styles
+{
+    <style>
+        body {
+                background-image: url("@Url.Content("~/Content/BidZLayoutFolder")/water_drops_in_slow_motion-wallpaper-1920x1200.jpg");
+                }
+    </style>
+}
+
+
+
+
+    <!DOCTYPE html>
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>RegisterType</title>
+    </head>
+    <body>
+        <div class="col-lg-pull-12">
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <center>
+            <h1> Select Your Registeration Type</h1>
+            </center>
+            <hr />
+            <center>
+            <div class="col-md-pull-5">
+                <input type="button" value="Seller" onclick="location.href='@Url.Action("Register", "Account")'" class="btn btn-primary btn-large" />
+                <input type="button" value="Customer" onclick="location.href='@Url.Action("RegisterCustomer", "Account")'" class="btn btn-primary btn-large" />
+
+            </div>
+                </center>
+        </div>
+
+<br />
+<br />
+<br />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+    </body>
+</html>
+

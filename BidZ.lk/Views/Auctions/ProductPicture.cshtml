@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "ProductPicture";
+}
+<div class="col-lg-offset-2">
+
+    <h2>ProductPicture</h2>
+    @using (Html.BeginForm("ProductPicture", "Auctions", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+        <div class="form-group">
+
+            <div class="col-md-offset-2 col-md-5">
+                <span>Select File:</span>
+                <input type="file" name="postedFile" class="form-control" />
+
+                <br />
+                <div>
+                    <hr />
+                    <input type="submit" value="Upload" class="col-md-offset-2" />
+                    <br />
+                    <p class="col-md-offset-2">If you skip this step, Default picture set to the product</p>
+                </div>
+                <hr />
+                <br />
+                <span style="color:green">@ViewBag.Message</span>
+            </div>
+        </div>
+
+    }
+    </div>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        @section Scripts {
+            @Scripts.Render("~/bundles/jqueryval")
+        }
